@@ -9,7 +9,7 @@
         <!--Choose Your Flavor-->
         <scene sceneID="B30-iQ-vu8">
             <objects>
-                <viewController storyboardIdentifier="PickFlavorViewController" id="UVM-0Q-4W9" customClass="PickFlavorViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="PickFlavorViewController" id="UVM-0Q-4W9" customClass="PickFlavorViewController" customModule="RWPickFlavor" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="sRg-If-22K"/>
                         <viewControllerLayoutGuide type="bottom" id="MIH-OU-SkA"/>

@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "RWPickFlavor lets user select an ice cream flavor."
   spec.requires_arc = true
   
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   
@@ -25,6 +25,6 @@ Pod::Spec.new do |spec|
 
   spec.resource  = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
   
-  spec.swift.version = "4.2"
+  spec.swift_version = "4.2"
 
 end
