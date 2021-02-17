@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "RWPickFlavor lets user select an ice cream flavor."
   spec.requires_arc = true
   
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.1"
   
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   
